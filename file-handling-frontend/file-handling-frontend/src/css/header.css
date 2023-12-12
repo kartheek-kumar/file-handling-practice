@@ -1,0 +1,25 @@
+
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+    height: 80px;
+}
+
+.section:link{
+    text-decoration: none;
+}
+
+.section:hover{
+    color: rgb(252, 135, 96);
+}
+
+.section{
+    cursor: pointer;
+    color: aquamarine;
+    font-weight: 600;
+    font-size: 25px;
+}

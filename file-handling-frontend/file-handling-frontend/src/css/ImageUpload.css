@@ -1,0 +1,33 @@
+
+.tableContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 200px;
+    width: 600px;
+}
+td,th{
+    border: 1px solid black;
+}
+
+
+.button{
+   color: blue;
+   cursor: pointer;
+}
+
+.button:hover{
+
+    color: red;
+}
+
+.viewImage{
+    display: flex;
+    justify-content: space-around;
+
+}
